@@ -1,16 +1,16 @@
-# uab
+###This is the Major-project for Advance web development
 
-A new Flutter project.
+Inorder to run this project you need to have
 
-## Getting Started
+flutter 3.0 framework install on your machine
+dart sdk install
 
-This project is a starting point for a Flutter application.
+You can check if flutter is install on your system by flutter-doctor
 
-A few resources to get you started if this is your first Flutter project:
+once the project is clone you need to install all the packages in pubspec.yaml(it will prompt you to install them just hit okay)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Running the Flutter-web-app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter -d chrome
+
+### output
