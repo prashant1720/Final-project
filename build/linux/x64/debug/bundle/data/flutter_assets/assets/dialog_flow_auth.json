@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "medidoc-ccml",
+  "private_key_id": "9cc189de59a5dbd35af420c32948a7de1319192e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCuKSB1qNnzmF3z\n1HcNhnL5gIvcFXz/T9lrsRjs7vcG+mZfrNwkR/BokhiNeljUkyWhqkYVcBACzuAE\nRks+H5ROLi0oSGuruPh6/axORMftNcvIAfhInsb0XAZnGELDM78y+Y39CI2Dm2xB\npQN6Fr82Ya/G8q4j+csjJN1fNwUVqg5RhnTfkpdwxA4IkPd/sIOuGVrjzjPlM/Bh\nX0kyMH87fbwHQvOYpydPI0ylIq6NnI2FaHbglsFY5fm8meRH20QeHqIJbh8YxPrd\nFNVrRPRQbl+sLfizePay1Sm1LEDd3dWlb5H8jKBEgeHfkoGjmAGn6R859hx2mUMQ\nQ57iWY8RAgMBAAECggEAD0cSTt/6BpFmJH6N1wTlTxfErRDBf1AM3ZKSgi5QQy9y\nDZCHWzNoVnQCbV6/Lh6eXXknXrgO34AwTI+yCAgTJWyNj4wSzeSS/48DL3Z/J0Lh\n1nC9y/kJsOPlt+N77825Rwp3Nywp5dKbg4KrNGmMaoPVPJmLRyKhfDq+pJyZ+JVm\nA/h0RdG/1MPMZCAk6p+PJbE7b9gxxtzUDRDb04NUC3tnaWloT+NGcy2YTv+BB4X3\n/tmpKYHFghEucUGlpBIZjVIOxaJDPfwPU8NWtBVEerIOB8VozDshpstUs2qcylYu\ncHzWxyLFlOsAFLdTQhEuV7mFwFwrxOyyGmJTZnosdQKBgQDwHz0HdwEbw/k7KKJK\nlBmnzMTp4SALFz+apk3+KZsjAo7tN9VqBjnF/rKBxT/KDJQPW5yidRvIxRpsv7Bf\n3gcMc17GxtFlhN/eqlaCtxq57ihStKSjV1LvjH1h4b4MUFzEEWwZfRiRIL6VdS4E\n6GtEU2h9fZxps05IE5PB9T6bzwKBgQC5rU0F/7NL6p2ejlSaAW6dThk2I5qguElB\npxPs1k2CZIHZU9J0GHq5VC3XzmUBq2ziOqTG4BsklGNI1pzi9klYxzidx1phql5w\naU6T67HLmJ7PY/I4NYttQlpL9MTlHUqHr2ME5oO/AB0GhFXLLLSUrcpDKQzhEbuu\n7VmHqTd/HwKBgQCuG/iEkSWcnFz7KFuE+B4iLbgaXcJ+SD02RaAHyuNSX2iDWRjF\n5/28MxH8RqoaN0SkXikVIxUiXsjqUZPx72vs+zqdp0vt8IrjSV+xKFOYvbc/QPyf\n85GPYK8JakYDZ8Hb6UYYtTw6/yMx++WCaYRd5py9YXcorXr1iDx7Rvg+wQKBgGq8\njuyF42IeyuEc3NFzRU00WhXfPcJqbeJJ05BwWTo94M83+mE2uUXUeE34nePp0bvz\nDkotBi1vB+wVQzbNcbiRPaCluvUt5QAl6T/rW9e4MoLx54ocbbwvSo0jdhRnVDLP\nxdJJWS7xN75JULBtUJmvlfgpnve7I/MZCkCMLBTtAoGBAKLtw2AU2DoCSG6gIIih\nKm+IY3VmwoLEDPitUmIqGbCoKAcrx/fQ6uhsdmux0p4M+aelHNiMr06OPP2Ufg5W\nuymMIFkvOlfItXbzvJ3GqC2AyOvAAMhH83WhI19PqiPcqqLSEU8nJ/Cd8efIWrh7\n2VYTr3B1ubmj1CulzwAcQi5k\n-----END PRIVATE KEY-----\n",
+  "client_email": "medibot@medidoc-ccml.iam.gserviceaccount.com",
+  "client_id": "114273572269088130134",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/medibot%40medidoc-ccml.iam.gserviceaccount.com"
+}

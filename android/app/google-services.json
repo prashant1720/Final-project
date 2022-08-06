@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "458829692791",
+    "project_id": "mediuab-3fcaf",
+    "storage_bucket": "mediuab-3fcaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458829692791:android:7d4e7c46c3abbd4fd66b72",
+        "android_client_info": {
+          "package_name": "com.example.uab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458829692791-2224j0nrkg244g5bhe32ud8sto9qnrgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrTwuyzZpyd14dhFaw2jOHojzOiN0qm10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458829692791-2224j0nrkg244g5bhe32ud8sto9qnrgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
